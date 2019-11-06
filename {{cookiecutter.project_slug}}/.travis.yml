@@ -41,6 +41,7 @@ matrix:
               - PYTHON=3.7
               - DEPLOY_DOCS=true
               - DEPLOY_PYPI=true
+              - CONDA_INSTALL_EXTRA="codecov twine"
         - name: "Linux - Python 3.6"
           os: linux
           env:
