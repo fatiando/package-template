@@ -1,8 +1,8 @@
 {
     "project_name": "Full Name with Capitalization",
-    "project_slug": "shortname (for package and repository)",
+    "project_slug": "shortname",
     "short_description": "One sentence summary of what this does",
     "author": "Name of Package Author",
     "author_email": "author@contact.com",
-    "pypi_username": "username for PyPI to publish the package"
+    "pypi_username": "mypypilogin"
 }
