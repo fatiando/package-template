@@ -20,6 +20,9 @@ Part of the `Fatiando a Terra <https://www.fatiando.org>`__ project
 .. image:: https://img.shields.io/pypi/pyversions/{{ cookiecutter.project_slug }}.svg?style=flat-square
     :alt: Compatible Python versions.
     :target: https://pypi.python.org/pypi/{{ cookiecutter.project_slug }}
+.. image:: https://img.shields.io/badge/{{ cookiecutter.doi|replace("/", "%2F") }}-blue.svg?style=flat-square
+    :alt: Digital Object Identifier
+    :target: https://doi.org/{{ cookiecutter.doi|e }}
 
 
 .. placeholder-for-doc-index
