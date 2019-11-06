@@ -8,5 +8,11 @@
     "author_github": "author",
     "pypi_username": "mypypilogin",
     "doi": "doi/from/zenodo",
-    "year": "2019"
+    "year": "2019",
+    "month": "11",
+    "day": "06",
+    "_copy_without_render": [
+        "doc/_templates",
+        "*.html"
+    ]
 }
