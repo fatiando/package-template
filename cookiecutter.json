@@ -4,5 +4,6 @@
     "short_description": "One sentence summary of what this does",
     "author": "Name of Package Author",
     "author_email": "author@contact.com",
+    "author_github": "author",
     "pypi_username": "mypypilogin"
 }
